@@ -1,0 +1,20 @@
+﻿Build started 2/8/2016 5:21:15 PM.
+     1>Project "C:\Visualizer\GitHubHelloWorldSample\GitHubHelloWorldSample\GitHubHelloWorldSample.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\GitHubHe.1DCFF4B2.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\GitHubHelloWorldSample.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GitHubHelloWorldSample.cpp
+         GitHubHelloWorldSample.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Visualizer\GitHubHelloWorldSample\Debug\GitHubHelloWorldSample.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Visualizer\GitHubHelloWorldSample\Debug\GitHubHelloWorldSample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Visualizer\GitHubHelloWorldSample\Debug\GitHubHelloWorldSample.lib" /MACHINE:X86 Debug\GitHubHelloWorldSample.obj
+         Debug\stdafx.obj
+         GitHubHelloWorldSample.vcxproj -> C:\Visualizer\GitHubHelloWorldSample\Debug\GitHubHelloWorldSample.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\GitHubHe.1DCFF4B2.tlog\unsuccessfulbuild".
+         Touching "Debug\GitHubHe.1DCFF4B2.tlog\GitHubHelloWorldSample.lastbuildstate".
+     1>Done Building Project "C:\Visualizer\GitHubHelloWorldSample\GitHubHelloWorldSample\GitHubHelloWorldSample.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.29
