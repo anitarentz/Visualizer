@@ -17,5 +17,10 @@ int _tmain(int argc, _TCHAR* argv[])
 	// 1
 	// 2
 	// 3
+
+	// Even more test lines
+	// 4
+	// 5
+	// 6
 }
 
